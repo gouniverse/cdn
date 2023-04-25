@@ -1,3 +1,5 @@
 # cdn
 
-For everything that could not be placed in https://github.com/gouniverse/uncdn
+Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, better reliability and total security 
+
+## Available methods
