@@ -4,10 +4,13 @@ Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, b
 
 ## Available methods
 
-- BootstrapCss523()
-- BootstrapJs523()
+- BootstrapCss_5_2_3()
+- BootstrapJs_5_2_3()
 
-- BootstrapIcons191()
+- BootstrapIconsCss_1_10_2()
+- BootstrapIconsCss_1_9_1()
 
+- FontAwesomeCss_6_1_2()
 
-- FontAwesomeCss612()
+- TrumbowygCss_2_27_3()
+- TrumbowygJs_2_27_3()
