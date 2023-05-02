@@ -17,6 +17,10 @@ Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, b
 - JqueryDataTablesCss_1_13_4()
 - JqueryDataTablesJs_1_13_4()
 
+- Notify_0_4_2()
+
+- Sweetalert2_10()
+
 - TrumbowygCss_2_27_3()
 - TrumbowygJs_2_27_3()
 
