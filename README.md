@@ -1,4 +1,4 @@
-# cdn
+# cdn <a href="https://gitpod.io/#https://github.com/gouniverse/cdn" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
 
 Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, better reliability and total security 
 
