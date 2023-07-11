@@ -4,8 +4,13 @@ Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, b
 
 ## Available methods
 
+- AlpineJs_3_12_3
+
 - BootstrapCss_5_2_3()
 - BootstrapJs_5_2_3()
+
+- BootstrapCss_5_3_0()
+- BootstrapJs_5_3_0()
 
 - BootstrapIconsCss_1_10_2()
 - BootstrapIconsCss_1_9_1()
