@@ -17,6 +17,8 @@ Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, b
 
 - FontAwesomeCss_6_1_2()
 
+- Htmx_1_9_2
+
 - Jquery_3_6_4()
 
 - JqueryDataTablesCss_1_13_4()
