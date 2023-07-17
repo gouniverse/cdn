@@ -35,3 +35,6 @@ Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, b
 - TrumbowygJs_2_27_3()
 
 - VueJs_3()
+- VueElementPlusCss_2_3_8()
+- VueElementPlusJs_2_3_8()
+- VueTrumbowyg_4_0_0()
