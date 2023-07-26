@@ -6,19 +6,24 @@ Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, b
 
 - AlpineJs_3_12_3
 
-- BootstrapCss_5_2_3()
-- BootstrapJs_5_2_3()
 
-- BootstrapCss_5_3_0()
+- BootstrapCss_5_3_0() - latest
 - BootstrapJs_5_3_0()
 - BootstrapCosmoCss_5_3_0() // + all the Bottswatch themes for 5.3.0
 
+- BootstrapCss_5_2_3()
+- BootstrapJs_5_2_3()
+
+- BootstrapIconsCss_1_10_5() - latest
 - BootstrapIconsCss_1_10_2()
 - BootstrapIconsCss_1_9_1()
 
+- ChartsCss_0_9_3()
+
 - FontAwesomeCss_6_1_2()
 
-- Htmx_1_9_2
+- Htmx_1_9_4() - latest
+- Htmx_1_9_2()
 
 - Jquery_3_6_4()
 
