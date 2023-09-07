@@ -4,10 +4,14 @@ Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, b
 
 ## Available methods
 
+- AlpineJs_3_13_0 - latest
 - AlpineJs_3_12_3
 
+- BootstrapCss_5_3_1() - latest
+- BootstrapJs_5_3_1()
+- BootstrapCosmoCss_5_3_1() // + all the Bottswatch themes for 5.3.1
 
-- BootstrapCss_5_3_0() - latest
+- BootstrapCss_5_3_0()
 - BootstrapJs_5_3_0()
 - BootstrapCosmoCss_5_3_0() // + all the Bottswatch themes for 5.3.0
 
@@ -20,11 +24,13 @@ Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, b
 
 - ChartsCss_0_9_3()
 
+- FontAwesomeCss_6_4_2() - latest
 - FontAwesomeCss_6_1_2()
 
 - Htmx_1_9_4() - latest
 - Htmx_1_9_2()
 
+- Jquery_3_7_1() - latest
 - Jquery_3_6_4()
 
 - JqueryDataTablesCss_1_13_4()
@@ -35,6 +41,7 @@ Consider using UNCDN (https://github.com/gouniverse/uncdn) for faster loading, b
 
 - Notify_0_4_2()
 
+- Sweetalert2_11() - latest
 - Sweetalert2_10()
 
 - TrumbowygCss_2_27_3()
