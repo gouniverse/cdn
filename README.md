@@ -29,7 +29,9 @@ If you want faster loading, reliability, and total security consider using UNCDN
 - FontAwesomeCss_6_4_2() - latest
 - FontAwesomeCss_6_1_2()
 
-- Htmx_1_9_4() - latest
+- Htmx_1_9_6() - latest
+- Htmx_1_9_5()
+- Htmx_1_9_4()
 - Htmx_1_9_2()
 
 - Jquery_3_7_1() - latest
@@ -45,6 +47,8 @@ If you want faster loading, reliability, and total security consider using UNCDN
 
 - Sweetalert2_11() - latest
 - Sweetalert2_10()
+
+- TailwindCss_3_3_3() - latest
 
 - TrumbowygCss_2_27_3()
 - TrumbowygJs_2_27_3()

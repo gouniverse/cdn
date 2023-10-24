@@ -7,6 +7,14 @@ import (
 
 // Keep in reverse alphabetical order (latest version on top)
 
+func TestHtmx_1_9_6(t *testing.T) {
+	output := Htmx_1_9_6()
+	expected := "htmx.org@1.9.6"
+	if !strings.Contains(output, expected) {
+		t.Error("Does not contain '" + expected + "', Output:" + output)
+	}
+}
+
 func TestHtmx_1_9_5(t *testing.T) {
 	output := Htmx_1_9_5()
 	expected := "htmx.org@1.9.5"
