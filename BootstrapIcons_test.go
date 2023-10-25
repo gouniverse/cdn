@@ -5,6 +5,15 @@ import (
 	"testing"
 )
 
+
+func TestBootstrapIconsCss_1_11_0(t *testing.T) {
+	output := BootstrapIconsCss_1_11_0()
+	expected := "bootstrap-icons@1.11.0/font/bootstrap-icons.css"
+	if !strings.Contains(output, expected) {
+		t.Error("Does not contain '" + expected + "', Output:" + output)
+	}
+}
+
 func TestBootstrapIconsCss_1_10_5(t *testing.T) {
 	output := BootstrapIconsCss_1_10_5()
 	expected := "bootstrap-icons@1.10.5/font/bootstrap-icons.css"
