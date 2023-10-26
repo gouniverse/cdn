@@ -1,6 +1,8 @@
 # cdn <a href="https://gitpod.io/#https://github.com/gouniverse/cdn" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
 
 ![tests](https://github.com/gouniverse/cdn/workflows/tests/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gouniverse/cdn)](https://goreportcard.com/report/github.com/gouniverse/cdn)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/gouniverse/cdn)](https://pkg.go.dev/github.com/gouniverse/cdn)
 
 Easy to use CDN URLs for using in Golang web UIs
 
