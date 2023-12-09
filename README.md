@@ -24,7 +24,9 @@ If you want faster loading, reliability, and total security consider using UNCDN
 - BootstrapCss_5_2_3()
 - BootstrapJs_5_2_3()
 
-- BootstrapIconsCss_1_10_5() - latest
+- BootstrapIconsCss_1_11_2() - latest
+- BootstrapIconsCss_1_11_0()
+- BootstrapIconsCss_1_10_5()
 - BootstrapIconsCss_1_10_2()
 - BootstrapIconsCss_1_9_1()
 
@@ -33,7 +35,8 @@ If you want faster loading, reliability, and total security consider using UNCDN
 - FontAwesomeCss_6_4_2() - latest
 - FontAwesomeCss_6_1_2()
 
-- Htmx_1_9_6() - latest
+- Htmx_1_9_9() - latest
+- Htmx_1_9_6()
 - Htmx_1_9_5()
 - Htmx_1_9_4()
 - Htmx_1_9_2()
