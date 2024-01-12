@@ -14,6 +14,9 @@ If you want faster loading, reliability, and total security consider using UNCDN
 - AlpineJs_3_13_0 - latest
 - AlpineJs_3_12_3
 
+### AnimatedCSS
+- AnimatedCSS_4_1_1 - latest
+
 ### Bootstrap
 - BootstrapCss_5_3_1() - latest
 - BootstrapJs_5_3_1()
