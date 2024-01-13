@@ -42,7 +42,12 @@ If you want faster loading, reliability, and total security consider using UNCDN
 - FontAwesomeCss_6_1_2()
 
 ### GoogleFont
-- GoogleFont
+- GoogleFont(family string, weight string)
+
+Example:
+```golang
+cdm.GoogleFont("Josefin Sans", "300,400,500")
+```
 
 ### HTMX
 - Htmx_1_9_9() - latest
