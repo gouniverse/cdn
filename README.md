@@ -46,7 +46,7 @@ If you want faster loading, reliability, and total security consider using UNCDN
 
 Example:
 ```golang
-cdm.GoogleFont("Josefin Sans", "300,400,500")
+cdn.GoogleFont("Josefin Sans", "300,400,500")
 ```
 
 ### HTMX
