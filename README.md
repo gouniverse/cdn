@@ -41,6 +41,9 @@ If you want faster loading, reliability, and total security consider using UNCDN
 - FontAwesomeCss_6_4_2() - latest
 - FontAwesomeCss_6_1_2()
 
+### GoogleFont
+- GoogleFont
+
 ### HTMX
 - Htmx_1_9_9() - latest
 - Htmx_1_9_6()
