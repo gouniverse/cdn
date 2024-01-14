@@ -30,7 +30,8 @@ If you want faster loading, reliability, and total security consider using UNCDN
 - BootstrapJs_5_2_3()
 
 ### Bootstrap Icons
-- BootstrapIconsCss_1_11_2() - latest
+- BootstrapIconsCss_1_11_3() - latest
+- BootstrapIconsCss_1_11_2()
 - BootstrapIconsCss_1_11_0()
 - BootstrapIconsCss_1_10_5()
 - BootstrapIconsCss_1_10_2()
