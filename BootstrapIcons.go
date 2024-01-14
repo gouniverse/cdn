@@ -1,5 +1,9 @@
 package cdn
 
+func BootstrapIconsCss_1_11_3() string {
+	return "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
+}
+
 func BootstrapIconsCss_1_11_2() string {
 	return "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.css"
 }
