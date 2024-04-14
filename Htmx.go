@@ -1,5 +1,9 @@
 package cdn
 
+func Htmx_1_9_11() string {
+	return "https://unpkg.com/htmx.org@1.9.11/dist/htmx.min.js"
+}
+
 func Htmx_1_9_9() string {
 	return "https://unpkg.com/htmx.org@1.9.9/dist/htmx.min.js"
 }
