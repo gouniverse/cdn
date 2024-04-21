@@ -2,7 +2,7 @@ package cdn
 
 // Keep in reverse alphabetical order (latest version on top)
 
-// ======================= version 5.3.1 ======================= //
+// ======================= version 5.3.2 ======================= //
 func BootstrapCss_5_3_2() string {
 	return "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
 }
@@ -10,6 +10,8 @@ func BootstrapCss_5_3_2() string {
 func BootstrapJs_5_3_2() string {
 	return "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
 }
+
+// ======================= version 5.3.1 ======================= //
 
 func BootstrapCss_5_3_1() string {
 	return "https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
@@ -56,7 +58,7 @@ func BootstrapLuxCss_5_3_1() string {
 }
 
 func BootstrapMateriaCss_5_3_1() string {
-	return "https://cdn.jsdelivr.net/npm/bootswatch@5.3.1/dist/matera/bootstrap.min.css"
+	return "https://cdn.jsdelivr.net/npm/bootswatch@5.3.1/dist/materia/bootstrap.min.css"
 }
 
 func BootstrapMorphCss_5_3_1() string {
@@ -166,7 +168,7 @@ func BootstrapLuxCss_5_3_0() string {
 }
 
 func BootstrapMateriaCss_5_3_0() string {
-	return "https://cdn.jsdelivr.net/npm/bootswatch@5.3.0/dist/matera/bootstrap.min.css"
+	return "https://cdn.jsdelivr.net/npm/bootswatch@5.3.0/dist/materia/bootstrap.min.css"
 }
 
 func BootstrapMorphCss_5_3_0() string {
