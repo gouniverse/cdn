@@ -5,6 +5,8 @@ import (
 	"testing"
 )
 
+// Keep in reverse alphabetical order (latest version on top)
+
 func TestJQuery3_7_1(t *testing.T) {
 	output := Jquery_3_7_1()
 	expected := "jquery-3.7.1.min.js"

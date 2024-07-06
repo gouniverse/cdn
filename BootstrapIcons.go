@@ -1,5 +1,9 @@
 package cdn
 
+// URL: https://icons.getbootstrap.com/
+
+// Keep in reverse alphabetical order (latest version on top)
+
 func BootstrapIconsCss_1_11_3() string {
 	return "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
 }

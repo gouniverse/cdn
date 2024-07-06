@@ -18,7 +18,15 @@ If you want faster loading, reliability, and total security consider using UNCDN
 - AnimatedCSS_4_1_1 - latest
 
 ### Bootstrap
-- BootstrapCss_5_3_1() - latest
+- BootstrapCss_5_3_3() - latest
+- BootstrapJs_5_3_3()
+- BootstrapCosmoCss_5_3_3() // + all the Bottswatch themes for 5.3.3
+
+- BootstrapCss_5_3_2()
+- BootstrapJs_5_3_3()
+- BootstrapCosmoCss_5_3_2() // + all the Bottswatch themes for 5.3.1
+
+- BootstrapCss_5_3_1()
 - BootstrapJs_5_3_1()
 - BootstrapCosmoCss_5_3_1() // + all the Bottswatch themes for 5.3.1
 
@@ -51,7 +59,8 @@ cdn.GoogleFont("Josefin Sans", "300,400,500")
 ```
 
 ### HTMX
-- Htmx_1_9_9() - latest
+- Htmx_2_0_0() - latest
+- Htmx_1_9_9()
 - Htmx_1_9_6()
 - Htmx_1_9_5()
 - Htmx_1_9_4()
@@ -79,7 +88,8 @@ cdn.GoogleFont("Josefin Sans", "300,400,500")
 - Sweetalert2_10()
 
 ### Tailwind
-- TailwindCss_3_3_3() - latest
+- TailwindCss_3_4_4() - latest
+- TailwindCss_3_3_3()
 
 ### Trumbowyg
 - TrumbowygCss_2_27_3()

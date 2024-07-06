@@ -1,5 +1,7 @@
 package cdn
 
+// Keep in reverse alphabetical order (latest version on top)
+
 func Jquery_3_7_1() string {
 	return "https://code.jquery.com/jquery-3.7.1.min.js"
 }

@@ -7,6 +7,22 @@ import (
 
 // Keep in reverse alphabetical order (latest version on top)
 
+func TestJqTreeCss_1_8_3(t *testing.T) {
+	output := JqTreeCss_1_8_3()
+	expected := "jqtree/1.8.3/jqtree.min.css"
+	if !strings.Contains(output, expected) {
+		t.Error("Does not contain '" + expected + "', Output:" + output)
+	}
+}
+
+func TestJqTreeJs_1_8_3(t *testing.T) {
+	output := JqTreeJs_1_8_3()
+	expected := "jqtree/1.8.3/tree.jquery.min.js"
+	if !strings.Contains(output, expected) {
+		t.Error("Does not contain '" + expected + "', Output:" + output)
+	}
+}
+
 func TestJqTreeCss_1_8_2(t *testing.T) {
 	output := JqTreeCss_1_8_2()
 	expected := "jqtree/1.8.2/jqtree.min.css"

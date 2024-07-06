@@ -1,5 +1,11 @@
 package cdn
 
+// URL: https://htmx.org/
+
+func Htmx_2_0_0() string {
+	return "https://unpkg.com/htmx.org@2.0.0/dist/htmx.min.js"
+}
+
 func Htmx_1_9_11() string {
 	return "https://unpkg.com/htmx.org@1.9.11/dist/htmx.min.js"
 }
