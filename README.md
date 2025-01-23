@@ -1,4 +1,6 @@
-# cdn <a href="https://gitpod.io/#https://github.com/gouniverse/cdn" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
+# cdn 
+<a href="https://gitpod.io/#https://github.com/gouniverse/cdn" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
+<a href="https://app.codeanywhere.com/#https://github.com/gouniverse/cdn/blob/292d9b4a74820f4526313285b852aaf4ec6390a5/README.md" style="float:right:"><img src="https://codeanywhere.com/img/open-in-codeanywhere-btn.svg" alt="Open in Gitpod" loading="lazy"></a>
 
 ![tests](https://github.com/gouniverse/cdn/workflows/tests/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/gouniverse/cdn)](https://goreportcard.com/report/github.com/gouniverse/cdn)
