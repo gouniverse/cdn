@@ -3,13 +3,13 @@ package cdn
 // Keep in reverse alphabetical order (latest version on top)
 
 func AlpineJs_3_13_8() string {
-	return "https://cdn.jsdelivr.net/npm/alpinejs@3.13.8/dist/cdn.min.js"
+	return cdnBase("https://cdn.jsdelivr.net/npm/") + "alpinejs@3.13.8/dist/cdn.min.js"
 }
 
 func AlpineJs_3_13_0() string {
-	return "https://cdn.jsdelivr.net/npm/alpinejs@3.13.0/dist/cdn.min.js"
+	return cdnBase("https://cdn.jsdelivr.net/npm/") + "alpinejs@3.13.0/dist/cdn.min.js"
 }
 
 func AlpineJs_3_12_3() string {
-	return "https://cdn.jsdelivr.net/npm/alpinejs@3.12.3/dist/cdn.min.js"
+	return cdnBase("https://cdn.jsdelivr.net/npm/") + "alpinejs@3.12.3/dist/cdn.min.js"
 }

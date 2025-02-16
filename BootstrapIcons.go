@@ -5,25 +5,25 @@ package cdn
 // Keep in reverse alphabetical order (latest version on top)
 
 func BootstrapIconsCss_1_11_3() string {
-	return "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
+	return cdnBase("https://cdn.jsdelivr.net/npm/") + "bootstrap-icons@1.11.3/font/bootstrap-icons.css"
 }
 
 func BootstrapIconsCss_1_11_2() string {
-	return "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.css"
+	return cdnBase("https://cdn.jsdelivr.net/npm/") + "bootstrap-icons@1.11.2/font/bootstrap-icons.css"
 }
 
 func BootstrapIconsCss_1_11_0() string {
-	return "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css"
+	return cdnBase("https://cdn.jsdelivr.net/npm/") + "bootstrap-icons@1.11.0/font/bootstrap-icons.css"
 }
 
 func BootstrapIconsCss_1_10_5() string {
-	return "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+	return cdnBase("https://cdn.jsdelivr.net/npm/") + "bootstrap-icons@1.10.5/font/bootstrap-icons.css"
 }
 
 func BootstrapIconsCss_1_10_2() string {
-	return "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css"
+	return cdnBase("https://cdn.jsdelivr.net/npm/") + "bootstrap-icons@1.10.2/font/bootstrap-icons.css"
 }
 
 func BootstrapIconsCss_1_9_1() string {
-	return "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css"
+	return cdnBase("https://cdn.jsdelivr.net/npm/") + "bootstrap-icons@1.9.1/font/bootstrap-icons.css"
 }
