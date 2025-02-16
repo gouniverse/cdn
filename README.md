@@ -10,6 +10,18 @@ Easy to use CDN URLs for using in Golang web UIs
 
 If you want faster loading, reliability, and total security consider using UNCDN (https://github.com/gouniverse/uncdn)
 
+## Customizing CDN URL Prefix
+
+The `CDN_URL_PREFIX` feature allows you to specify a custom CDN URL prefix via an environment variable. This can be useful if you want to use a different CDN for serving your assets.
+
+To use the `CDN_URL_PREFIX` feature, set the `CDN_URL_PREFIX` environment variable to your desired CDN URL prefix. For example:
+
+```sh
+export CDN_URL_PREFIX="https://mycustomcdn.com/"
+```
+
+If the `CDN_URL_PREFIX` environment variable is set, it will be used as the base URL for the CDN; otherwise, the original CDN URL will be used.
+
 ## Available methods
 
 ### AlpineJS
